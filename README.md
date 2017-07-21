@@ -13,6 +13,7 @@ If not already done download [Node.js](https://nodejs.org/en/download/) and [git
 Then from the command line:
 ```
 git clone https://github.com/woodman231/electron-angular-shopping-list.git
+cd electron-angular-shopping-list
 npm install electron -g
 npm install
 electron .
